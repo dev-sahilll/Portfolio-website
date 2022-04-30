@@ -45,7 +45,7 @@ const Project = (props) => {
             endIcon={<SendIcon />}
             onClick={gotToLink}
           >
-            View Peoject
+            View PRoject
           </Button>
         </CardActions>
       </Card>
