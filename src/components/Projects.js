@@ -1,17 +1,26 @@
 import { Box, Grid, Divider, Typography } from "@mui/material";
 import Project from "../Project";
 import screenShooter from "../images/ff.png";
-
+import urban from "../images/ff.png";
+import keeper from "../images/ll.png";
 
 const Projects = () => {
   const Projects = [
     {
+    {
       title: "UrbanMerchant",
       desc: "Our theme Vocal for local Its a full stack Mern website with name 'UrbanMerchant' which provide a platform for the local traders to get themselve registered where they can put their own local product which could be later accessed by the ecommerce stores for selling ,by this vendors can sell their goods without any mediator between to enhance the profit margins and keeping more transparency and authenticity to consumer",
-      image: screenShooter,
+      image: urban,
       githubLink: "https://github.com/vatsalyasagraya/UrbanMerchant",
-      techStack: "Java, JavaFx",
+      techStack: "JavaScript",
     },
+    {
+    title: "KeeperApp",
+      desc: "React app that Allows you to add and delete notes",
+      image: keeper,
+      githubLink: "https://github.com/dev-sahilll/KeeperApp",
+      techStack: "JavaScript",
+    }
  
   ];
 
