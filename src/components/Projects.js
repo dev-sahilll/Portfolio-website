@@ -9,14 +9,14 @@ const Projects = () => {
     
     {
       title: "UrbanMerchant",
-      desc: "A MERN stack based website which allows sellers to sell their products and therby promoting the cause of 'Vocal for Local'",
+      desc: "A MERN stack based website which allows sellers to sell their products and therby promoting the cause of 'Vocal for Local'.",
       image: urban,
       githubLink: "https://github.com/vatsalyasagraya/UrbanMerchant",
       techStack: "JavaScript",
     },
     {
     title: "KeeperApp",
-      desc: "React app that Allows you to add and delete notes",
+      desc: "React app that Allows you to add and delete notes. Material UI compoenent library used for styling enhancements.",
       image: keeper,
       githubLink: "https://github.com/dev-sahilll/KeeperApp",
       techStack: "JavaScript",
