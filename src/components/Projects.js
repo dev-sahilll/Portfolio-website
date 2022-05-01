@@ -9,7 +9,7 @@ const Projects = () => {
     
     {
       title: "UrbanMerchant",
-      desc: "Our theme Vocal for local Its a full stack Mern website with name 'UrbanMerchant' which provide a platform for the local traders to get themselve registered where they can put their own local product which could be later accessed by the ecommerce stores for selling ,by this vendors can sell their goods without any mediator between to enhance the profit margins and keeping more transparency and authenticity to consumer",
+      desc: "A MERN stack based website which allows sellers to sell their products and therby promoting the cause of 'Vocal for Local'",
       image: urban,
       githubLink: "https://github.com/vatsalyasagraya/UrbanMerchant",
       techStack: "JavaScript",
