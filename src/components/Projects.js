@@ -8,7 +8,7 @@ const Projects = () => {
   const Projects = [
     
     {
-      title: "UrbanMerchant",
+      title: "Urban Merchant",
       desc: "A MERN stack based website which allows sellers to sell their products and therby promoting the cause of 'Vocal for Local'.",
       image: urban,
       githubLink: "https://github.com/vatsalyasagraya/UrbanMerchant",
@@ -31,6 +31,7 @@ const Projects = () => {
         m: "0 auto",
         display: "flex",
         flexDirection: "column",
+        flexWrap : "wrap",
         justifyContent: "center",
         alignItems: "center",
         width: "100%",
