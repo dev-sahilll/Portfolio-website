@@ -24,6 +24,7 @@ const Education = () => {
         alignItems: "center",
         width: "100%",
         backgroundColor: "#130f40",
+overflow : "hidden",
 color:"white",
 backgroundImage:
   " linear-gradient(315deg, #130f40 0%, #000002 74%)",
