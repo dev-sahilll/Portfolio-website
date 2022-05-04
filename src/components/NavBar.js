@@ -73,6 +73,7 @@ const NavBar = () => {
         onClose={handleDrawerToggle}
         ModalProps={{
           keepMounted: true,
+                    overflow: "hidden",
         }}
       >
         <List onClick={handleDrawerToggle}>
