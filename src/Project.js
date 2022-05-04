@@ -19,6 +19,7 @@ const Project = (props) => {
       sx={{
         display: "flex",
         alignContent: "start",
+        flexWrap : "wrap",
         direction: "column",
         justifyContent: "start",
         textAlign: "start",
