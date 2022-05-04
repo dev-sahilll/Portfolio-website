@@ -29,7 +29,7 @@ const SkillSet = () => {
         justifyContent: "center",
         alignItems: "center",
         p: "20px",
-       
+        overflow : "hidden",
       }}
     >
       <Divider sx={{ width: "20rem", display: "flex", mt: "6rem" }}>
