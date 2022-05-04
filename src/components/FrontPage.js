@@ -79,6 +79,7 @@ const FrontPage = () => {
         height: "95vh",
         color:"white",
         backgroundColor: "#130f40",
+        overflow: "hidden",
 
         backgroundImage:
           " linear-gradient(315deg, #130f40 0%, #000000 74%)",
