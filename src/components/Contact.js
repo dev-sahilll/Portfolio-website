@@ -38,6 +38,7 @@ const Contact = () => {
         p: "20px",
         m: "0 auto",
         backgroundColor: "#130f40",
+        overflow: "hidden"
         fontFamily:"montserrat",
         backgroundImage:
           " linear-gradient(315deg, #130f40 0%, #000000 74%)",
