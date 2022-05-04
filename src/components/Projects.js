@@ -34,6 +34,7 @@ const Projects = () => {
         justifyContent: "center",
         alignItems: "center",
         width: "100%",
+    overflow: "hidden",
         p: "10px",
       }}
     >
