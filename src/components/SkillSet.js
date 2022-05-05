@@ -48,7 +48,7 @@ const SkillSet = () => {
         Being a Tech. Enthusiast, I love to explore new technologies and always get awestruck by the advancements in them. <br />I am a self-motivated, agile and quick
         learner.
         <br/>
-        I am interested in the domain of web development and have intermediate level knowledge of the MERN stack. 
+        I am interested in the domain of web development and competitive programming. 
         <br/>
         I aim to work as a software development Engineer in a renowned firm.
       </Typography>
