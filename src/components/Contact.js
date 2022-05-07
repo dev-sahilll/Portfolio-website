@@ -11,7 +11,7 @@ import React from "react";
 import GitHubIcon from "@mui/icons-material/GitHub";
 import TwitterIcon from "@mui/icons-material/Twitter";
 import LinkedInIcon from "@mui/icons-material/LinkedIn";
-import "./Contact.css";
+
 const Contact = () => {
   const socialLinks = [
     {
