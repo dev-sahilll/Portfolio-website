@@ -1,17 +1,17 @@
 import {
   Box,
-  Container,
-  Grid,
+
   Divider,
-  Chip,
+
   Typography,
-  Link,
+
   IconButton,
 } from "@mui/material";
 import React from "react";
 import GitHubIcon from "@mui/icons-material/GitHub";
 import TwitterIcon from "@mui/icons-material/Twitter";
 import LinkedInIcon from "@mui/icons-material/LinkedIn";
+import "./Contact.css";
 const Contact = () => {
   const socialLinks = [
     {
@@ -45,7 +45,7 @@ const Contact = () => {
       }}
     >
       <Divider sx={{ width: "20rem", display: "flex", mt: "3rem", }}>
-        <Typography sx={{fontFamily:"montserrat"}}variant="h5" component="h4" color="common.white">
+        <Typography className="kk" sx={{fontFamily:"montserrat"}}variant="h5" component="h4" color="common.white" onClick={() => window.open("/form")}>
           Connect with me
         </Typography>
       </Divider>

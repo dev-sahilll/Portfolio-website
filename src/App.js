@@ -9,7 +9,7 @@ import Education from "./components/Education";
 import Projects from "./components/Projects";
 import Footer from "./components/Footer";
 import Contact from "./components/Contact";
-import { HashRouter, Route, Routes } from "react-router-dom";
+
 import { ThemeProvider } from "@mui/material";
 import theme from "./theme";
 
@@ -26,6 +26,7 @@ function App() {
         <Contact />
         <Footer />
       </div>
+    
     </ThemeProvider>
   );
 }

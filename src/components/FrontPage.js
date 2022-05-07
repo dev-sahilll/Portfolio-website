@@ -115,12 +115,13 @@ const FrontPage = () => {
         Sahil Jagwani
       </Typography>
       <Typography className={classes.bottomText} align="center">
-        <ReactRotatingText
+        <ReactRotatingText 
           items={[
             "Full Stack Web Developer",
             "Tech Enthusiast",
             "Programmer",
           ]}
+          
           pause={800}
         />
       </Typography>
