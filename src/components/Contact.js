@@ -45,7 +45,7 @@ const Contact = () => {
       }}
     >
       <Divider sx={{ width: "20rem", display: "flex", mt: "3rem", }}>
-        <Typography className="kk" sx={{fontFamily:"montserrat"}}variant="h5" component="h4" color="common.white" onClick={() => window.open("/form")}>
+        <Typography className="kk" sx={{fontFamily:"montserrat"}}variant="h5" component="h4" color="common.white">
           Connect with me
         </Typography>
       </Divider>
